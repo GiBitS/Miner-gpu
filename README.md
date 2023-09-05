@@ -1,4 +1,4 @@
-# sgminer
+# cpu-miner
 
 
 ## Introduction
